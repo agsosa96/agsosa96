@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Hello there 🤙, I'm Sosa Arnaldo Gaston</h1>
+    <h1>Soy Sosa Arnaldo Gaston</h1>
 </div>
 
 <div align="center">
-    I'm a Fullstack Developer from Argentina, actually working at <a href="https://baufest.com">Baufest</a>
+   Hit
 </div>
 
 <div align="center">
