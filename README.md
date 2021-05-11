@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   Hit
+   Soy estudiante de Ingenieria en Informatica en la <a href="https://www.uade.edu.ar/">UADE</a>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    <h3>If you want to learn more about me, you can visit my social media or send me a message!</h3>
+    <h3>Se puede conmunicar conmigo a traves de las siguientes redes sociales</h3>
 </div>
 
 <!-- BADGES -->
